@@ -1,4 +1,4 @@
-<h1 allign="center">👋 Welcome to my profile 👋</h1>
+<h1 align="center">👋 Welcome to my profile 👋</h1>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HUNTERSCOUTI&show_icons=true&theme=radical)
 
