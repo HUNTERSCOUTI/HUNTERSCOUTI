@@ -13,14 +13,18 @@
 <a href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" target="_blank" rel="stylesheet"> <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> </a>
 <a href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" target="_blank" rel="stylesheet"> <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" /> </a>
           
-          
-
-          
 <a href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" target="_blank" rel="stylesheet"> <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" /> </a>
 
-
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HUNTERSCOUTI&theme=tokyonight)
+
+<h2>About me</h2>
+<p>My name is Zilas Jørgensen, but I also go by HUNTER SCOUTI online.
+<br>
+<br>I'm a College student at Tech College in Aalborg, Denmark. I am studying under the Data Technician line with specialty
+<br>in programming and currently finishing up the intro first year. 
+<br>
+<br>I primarily work in C# where I have experience in different fields, such as Console, WPF and Forms.</p>
+
 
 
 
