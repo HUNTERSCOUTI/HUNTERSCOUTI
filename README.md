@@ -23,8 +23,8 @@
 <br>I'm a College student at Tech College in Aalborg, Denmark. I am studying under the Data Technician line with specialty
 <br>in programming and currently finishing up the intro first year. 
 <br>
-<br>I primarily work in C# where I have experience in different fields, such as Console, WPF and Forms.</p>
-
+<br>I primarily work in C# where I have experience in different fields, such as Console, WPF and Forms.
+<br>But I've always experimented with other languages to for fun on the side.</p>
 
 
 
