@@ -1,4 +1,12 @@
 <h1 align="center">👋 Welcome to my profile 👋</h1>
+<a href="mailto:zilas2004@gmail.com"><sub><img src="https://raw.githubusercontent.com/ZacharyPatten/ZacharyPatten/main/Resources/GitHub/gmail-badge.svg" title="Gmail" alt="Gmail" height="24"></sub></a>
+&nbsp;
+<a href="https://github.com/HUNTERSCOUTI"><sub><img src="https://raw.githubusercontent.com/ZacharyPatten/ZacharyPatten/main/Resources/GitHub/github-badge.svg" title="GitHub Profile" alt="GitHub Profile" height="24"></sub></a>
+&nbsp;
+<a href="https://discord.gg/wd6xrKs2Mg"><sub><img src="https://raw.githubusercontent.com/ZacharyPatten/ZacharyPatten/main/Resources/GitHub/discord-badge.svg" title="Discord Server" alt="Discord Server" height="24"></sub></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/zilas-j%C3%B8rgensen-678835210/"><sub><img src="https://raw.githubusercontent.com/ZacharyPatten/ZacharyPatten/main/Resources/GitHub/linkedin-badge.svg" title="LinkedIn Profile" alt="LinkedIn Profile" height="24"></sub></a>
+&nbsp;
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HUNTERSCOUTI&show_icons=true&theme=radical)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HUNTERSCOUTI&theme=midnight-purple&hide_border=true&currStreakLabel=E4289E&background=2B213A&fire=E4289E&sideNums=E4289E&currStreakNum=E4289E)](https://git.io/streak-stats)  
