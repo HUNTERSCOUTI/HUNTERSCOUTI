@@ -32,7 +32,8 @@
 <br>I'm currently in my first year and actively searching an Internship.
 <br>
 <br>I primarily work in C# where I have experience in different fields, such as Console, WPF and Forms.
-<br>But I've always experimented with other languages like working on Java for the official "Pixelmon" mod to Minecraft.</p>
+<br>But I've always experimented with other languages like working on Java for the official "Pixelmon" mod to Minecraft,
+<br>and I'm always wanting to try other things that could help me grow into a better programmer.</p>
 
 
 
