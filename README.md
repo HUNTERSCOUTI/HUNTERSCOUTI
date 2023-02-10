@@ -35,5 +35,10 @@
 <br>But I've always experimented with other languages like working on Java for the official "Pixelmon" mod to Minecraft,
 <br>and I'm always wanting to try other things that could help me grow into a better programmer.</p>
 
-
+<h2>Community Working / Worked on</h2>
+<ul>
+    <li href="https://github.com/ZacharyPatten/dotnet-console-games/tree/console-monsters/Projects/Console%20Monsters">Console Monsters</li>
+    <li href="https://pixelmonmod.com">Pixelmon Mod</li>
+    <li href="https://discord.gg/hbMaXAw5QN">Wicked Games Studio (Unity Games)</li>
+</ul>
 
