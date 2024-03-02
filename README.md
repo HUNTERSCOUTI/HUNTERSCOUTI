@@ -39,6 +39,5 @@
 <ul>
     <li><a href="https://github.com/ZacharyPatten/dotnet-console-games/tree/console-monsters/Projects/Console%20Monsters"/>Console Monsters</li>
     <li><a href="https://pixelmonmod.com"/>Pixelmon Mod</li>
-    <li><a href="https://discord.gg/hbMaXAw5QN"/>Wicked Games Studio (Unity Games)</li>
 </ul>
 
