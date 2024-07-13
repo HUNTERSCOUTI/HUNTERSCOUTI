@@ -29,7 +29,7 @@
 <p>My name is Zilas Jørgensen, but I also go by HUNTERSCOUTI online.
 <br>
 <br>I'm a College student at Tech College in Aalborg, Denmark. I am studying under the Data Technician line with specialty
-<br>I'm currently in my second year and actively searching an Internship.
+<br>I'm currently in my second year and working as an intern software developer at EMD
 <br>
 <br>I primarily work in C# where I have experience in different fields, such as Console, WPF and Forms.
 <br>But I've always experimented with other languages like working on Java for the official "Pixelmon" mod to Minecraft,
